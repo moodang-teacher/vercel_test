@@ -1,0 +1,24 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f9f9f9;
+    color: #1a1a1a;
+    overflow-x: hidden;
+}
+
+h1, h2, h3, .font-serif {
+    font-family: 'Crimson Pro', serif;
+}
+
+.text-huge {
+    font-size: clamp(3rem, 10vw, 8rem);
+    line-height: 0.9;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

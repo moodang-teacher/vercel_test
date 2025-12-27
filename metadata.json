@@ -1,0 +1,8 @@
+{
+  "name": "Collins x Molang 3D Design Studio",
+  "description": "A high-end, minimal landing page inspired by Collins design studio, featuring interactive 3D elements and a Gemini-powered creative strategist.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
